@@ -1,4 +1,4 @@
-#learninggit
+# #Learninggit
 
 # My week 
 ## Sjuk
@@ -31,3 +31,9 @@ ett snyggt block
 
 - [x] ifylld ruta
 - [ ] inte ifylld ruta
+
+
+# Nätverkstabell
+| Hostname        | Operativsystem  | IP-adress | Subnätmask | Standard Gateway. |
+|-----------------|-----------------|-----------|------------|-------------------|
+| 192.168.1.50/24 | 192.168.1.51/24 |           |            |                   |
